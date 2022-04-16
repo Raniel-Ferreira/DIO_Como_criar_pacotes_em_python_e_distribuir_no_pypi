@@ -2,9 +2,10 @@
 
 Description. 
 The package exemplo_pct is used to:
+	
 	- Plot image
 	- Plot histogram
-  - Combine image
+  	- Combine image
 
 ## Installation
 
